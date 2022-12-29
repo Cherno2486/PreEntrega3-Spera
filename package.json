@@ -192,7 +192,7 @@
   },
   "scripts": {
     "test": "Martin Spera",
-    "build-css": "node-sass --include-path scss assets/style.css assets/style.scss",
+    "build-css": "node-sass --include-path scss assets/style.scss assets/style.css",
     "watch-css": "nodemon -e scss -x \"npm run build-css\""
   },
   "repository": {
